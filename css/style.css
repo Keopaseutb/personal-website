@@ -1,7 +1,7 @@
 body {
 	font-family: 'Josefin Slab', serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #174d87 url('img/bg-texture.jpg') repeat;
 }
 
 
@@ -19,7 +19,7 @@ h2 {
 	font-size: 1.500em;
 	color: #B4C34F;
 }
-
+/*
 .btn {
 	color: #FAF3BC;
 	background: #4FB69f url('img/texture.png') no-repeat right top;
@@ -32,6 +32,13 @@ h2 {
 .btn:hover {
 	background-color: #4CC4A7;
 }
+*/
+
+.top-bar{
+	border-top: 8px solid #2A0400;  /* Trying to pull a bar across the top */
+
+}
+
 
 ul.nav {
 	margin: 120px 0 0 0;
@@ -50,6 +57,10 @@ ul.nav li a {
 
 #intro {
 	margin: 25px 0 75px 0;
+}
+
+#website-img {
+	margin: 25px 0px 75px 10px;
 }
 
 #new-cupcakes img {
