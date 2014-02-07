@@ -60,7 +60,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-	color: #FAF3BC;
+	color: #B4C34F;
 }
 
 #intro {
@@ -69,6 +69,7 @@ ul.nav li a {
 
 #website-img {
 	margin: 35px 0px 75px 10px;
+	border: 4px solid #FAF3BC;
 }
 
 #new-cupcakes img {
