@@ -42,8 +42,11 @@ h2 {
 }
 */
 
-.top-bar{
-	border-top: 8px solid #2A0400;  /* Trying to pull a bar across the top */
+
+
+hr.top-bar{
+	color: ##2A0400;
+	background-color: ##2A0400; 
 
 }
 
