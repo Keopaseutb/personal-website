@@ -70,10 +70,12 @@ ul.nav li a {
 
 #intro {
 	margin: 0px 0 75px 0;
+	float: left;
 }
 
-#website-img {
-	margin: 35px 0px 75px 10px;
+.website-img {
+	float: right;
+	margin: 35px 0px 0px 10px;
 	border: 4px solid #FAF3BC;
 }
 
