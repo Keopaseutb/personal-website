@@ -44,10 +44,11 @@ h2 {
 
 
 
-hr.top-bar{
-	color: ##2A0400;
-	background-color: ##2A0400; 
-
+.top-bar > hr {
+	color: #2A0400; 
+	background-color: #2A0400; 
+	height: 8px;
+	margin-top: 8px; 
 }
 
 
@@ -64,6 +65,7 @@ ul.nav li {
 
 ul.nav li a {
 	color: #B4C34F;
+	font-size: 1.300em; 
 }
 
 #intro {
