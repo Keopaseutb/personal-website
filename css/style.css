@@ -65,7 +65,8 @@ ul.nav li {
 
 ul.nav li a {
 	color: #B4C34F;
-	font-size: 1.300em; 
+	font-size: 1.300em;	
+	text-shadow: 5px -4px 3px rgba(255,255,255,0.9); 
 }
 
 #intro {
